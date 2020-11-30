@@ -1,26 +1,25 @@
-# Sean Kross
+# Lorenzo Radicchi
 
 ### Geography
 
-I live in the city of Baltimore, in the state of Maryland, in the United States
-of America.
+I live in the city of Gubbio, in Italy.
 
 ### Reading
 
-Three of my favorite books are:
+Three of my favorite films are:
 
-- *Mindstorms* by Seymour Papert
-- *Welcome to the Monkey House* by Kurt Vonnegut
-- *Persepolis* by Marjane Satrapi
+- *The Prestige*
+- *Fight Club*
+- *Interstellar*
 
 ### Food
 
-Last night I dreamt about eating in these restaurants:
+My favourite foods are:
 
-1. Linger in Denver.
-2. Azura in Jerusalem.
-3. Gemma in New York City.
+1. Pizza
+2. Steak
+3. Lasagna
 
 ### Contact
 
-The best way to get in touch with me is [on Twitter](https://twitter.com/seankross).
+The best way to get in touch with me is [on Linkedin](linkedin.com/in/lorenzo-radicchi-5201751a0).
