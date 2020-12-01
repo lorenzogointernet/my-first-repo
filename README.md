@@ -22,4 +22,4 @@ My favourite foods are:
 
 ### Contact
 
-The best way to get in touch with me is [on Linkedin](linkedin.com/in/lorenzo-radicchi-5201751a0).
+The best way to get in touch with me is [on Linkedin](https://www.linkedin.com/in/lorenzo-radicchi-5201751a0/).
